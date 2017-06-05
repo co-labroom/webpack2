@@ -1,0 +1,20 @@
+{
+  "name": "webpack2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --config webpack.config.js"
+  },
+  "author": "common",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "style-loader": "^0.18.1",
+    "webpack": "^2.6.1"
+  },
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
