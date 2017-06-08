@@ -1,6 +1,6 @@
 /**
  * Created by common on 2017/6/1.
  */
-import './bootstrap.css';
+// import './bootstrap.css';
 var moment = require('moment');
-console.log(moment().format());
+console.log(moment().format('LL'));
